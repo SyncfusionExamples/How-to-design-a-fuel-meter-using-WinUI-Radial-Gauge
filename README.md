@@ -1,6 +1,8 @@
 # How to design a fuel meter using WinUI Radial Gauge
 A quick-start project that helps you design and configure fuel meter using the [Syncfusion WinUi Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) control.
 
+Please refer the KB through this [link](https://www.syncfusion.com/kb/13691/how-to-design-a-fuel-meter-using-winui-radial-gauge-sfradialgauge)
+
 ## Syncfuion control(s)
 
 This project used the following Syncfusion controls:
