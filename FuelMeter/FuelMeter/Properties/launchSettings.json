@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FuelMeter (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "FuelMeter (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
